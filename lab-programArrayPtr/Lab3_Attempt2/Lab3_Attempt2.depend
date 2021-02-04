@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608293770 source:c:\users\g00247665\documents\gmit-course-cpp\lab-programarrayptr\lab 3\lab3_attempt2\main.cpp
+	<iostream>
+
+1612394950 source:\\w2k12r2dc\folderredirection\moconnor\desktop\lab3_attempt2\lab3_attempt2\main.cpp
+	<iostream>
+	"functions.h"
+
+1612395090 \\w2k12r2dc\folderredirection\moconnor\desktop\lab3_attempt2\lab3_attempt2\functions.h
+
+1612465778 source:d:\lab3_attempt2\main.cpp
+	<iostream>
+	"functions.h"
+
+1612465850 d:\lab3_attempt2\functions.h
+	<iostream>
+
