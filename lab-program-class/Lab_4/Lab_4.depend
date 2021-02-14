@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1613152652 source:c:\users\g00247665\desktop\lab-program-class\lab_4\main.cpp
+	<iostream>
+
+1613128676 c:\users\g00247665\desktop\lab-program-class\lab_4\functions.h
+	<iostream>
+
+1613303701 source:c:\users\g00247665\desktop\lab-program-class #2\lab_4\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"labInfo.h"
+
+1613301155 source:c:\users\g00247665\desktop\lab-program-class #2\lab_4\labinfo.cpp
+	"labInfo.h"
+	<iostream>
+	<iomanip>
+	<string>
+	"labInfo.h"
+
+1613303810 c:\users\g00247665\desktop\lab-program-class #2\lab_4\labinfo.h
+
