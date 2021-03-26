@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1616773740 source:c:\users\moconnor\gmit\c++ programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\football_club.cpp
+	"football_club.h"
+
+1616771545 c:\users\moconnor\gmit\c++ programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616773343 c:\users\moconnor\gmit\c++ programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\player.h
+	<iostream>
+
+1616778266 source:c:\users\moconnor\gmit\c++ programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\player.cpp
+	"player.h"
+
+1616775373 source:c:\users\moconnor\gmit\c++ programming\gmit-course-cpp\lab-code-refactor\lab-code-refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+

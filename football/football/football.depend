@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1615554656 source:/home/stephen/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	"football_club.h"
+
+1615554598 /home/stephen/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1614874581 source:/home/stephen/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1615554673 /home/stephen/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1615488141 source:/home/stephen/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1614875536 /home/stephen/Projects/gmit-course-cpp/football/date.h
+
+1615549574 source:/home/stephen/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/stephen/Projects/gmit-course-cpp/football/include/atest.h
+
+1616088719 source:/home/freddy/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1616088706 /home/freddy/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1616089234 /home/freddy/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1616089661 source:/home/freddy/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1615549574 source:/home/freddy/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/freddy/Projects/gmit-course-cpp/football/include/atest.h
+
+1616089465 source:/home/freddy/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
